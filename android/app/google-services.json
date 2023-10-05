@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548013162815",
+    "project_id": "kfc-b-3ece3",
+    "storage_bucket": "kfc-b-3ece3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548013162815:android:ba061efe3911d03659538a",
+        "android_client_info": {
+          "package_name": "com.example.kfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548013162815-e6kkmlg2oanejfa35ak6fr9oucq0sshj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8XKrvA2egQ9GwARASFYsKFXNUzWxavw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548013162815-e6kkmlg2oanejfa35ak6fr9oucq0sshj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
